@@ -1,4 +1,4 @@
-### I'd like to thank *Biswas SounD* and *Guru Rajashekar*, without whom this venture would not be possible.
+### I wish to express my sincere gratitude and appreciation to *Biswas SounD* and *Guru Rajashekar* without whom this venture would not be a reality (in no particular order).
 
 *Biswas SounD system #2, Dj Biswas Sound(2)*
 ![image](https://user-images.githubusercontent.com/42505125/122138200-78181500-ce03-11eb-9f0a-b613d1bbaede.png)
