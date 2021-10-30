@@ -1,7 +1,8 @@
-### I wish to express my sincere gratitude and appreciation to *BiswaS SounD* and *Guru Rajashekar*, without whom this venture would not be a reality (in no particular order).
+https://user-images.githubusercontent.com/42505125/139521143-bbaaf529-1fb8-49c5-8193-60c406ba2ccd.mp4
 
-*Biswas SounD system #2, Dj Biswas Sound(2)*
-![image](https://user-images.githubusercontent.com/42505125/122138200-78181500-ce03-11eb-9f0a-b613d1bbaede.png)
+*BARMAN vs TITANIC with B.M REMIX*
 
-*Guru Rajashekar, గురువు రాజశేఖర్ చెక్కభజన పార్నపల్లి గ్రామంలో (Guru Rajashekar's Chakka Bajana in Parnapalli)*
-![image](https://user-images.githubusercontent.com/42505125/122138881-e4dfdf00-ce04-11eb-8a18-583aa8379a90.png)
+Projects that I am working on include:
+* winfakeav. This can be used to play audio and video samples, individual or muxed, through a virtual microphone and camera.
+* [bswssnd](https://github.com/bswssnd), a lightweight Discord music bot and audio player/sender meant to be self-hosted.
+  * This was created after the advent of Youtube's cease and desist orders to major Youtube-supporting music bots on Discord.
