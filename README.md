@@ -4,4 +4,4 @@ To learn about DevOps and [data intensive applications](https://www.oreilly.com/
 
 I plan to move some of these services over to Kubernetes on Azure or AWS in the near future, after they gain popularity or when I feel like my current solution isn't adequate.
 
-I'm also planning to set up a blog (which might also double as a personal portfolio) to reflect on books I'm reading, interesting problems I'm solving and new technologies I'm experimenting with. I'm going to write up a few posts about what I develop on my Gitea instance to not be completely opaque about what I do, and show that I do indeed know how to code.
+I'm also planning to set up a blog (which might also double as a personal portfolio) to reflect on books I'm reading, interesting problems I'm solving and new technologies I'm experimenting with.
