@@ -1,21 +1,42 @@
+# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
 name: Metrics
 on:
-  # Schedule daily updates
-  schedule: [{cron: "0 0 * * *"}]
-  # (optional) Run workflow manually
-  workflow_dispatch:
-  # (optional) Run workflow when pushing on master/main
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 * * * *"}]
+  # Lines below let you run workflow manually and on each commit
   push: {branches: ["master", "main"]}
+  workflow_dispatch:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.isocalendar.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
+          # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+
+          # Options
+          user: telugu-boy
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: America/Edmonton
+          plugin_activity: yes
+          plugin_activity_days: 26
+          plugin_activity_filter: all
+          plugin_activity_limit: 5
           plugin_isocalendar: yes
+          plugin_languages: yes
+          plugin_languages_colors: github
+          plugin_languages_ignored: Ruby # rgss
+          plugin_languages_threshold: 0%
+          plugin_lines: yes                                 # Limit to 4 entries
+          plugin_projects_descriptions: yes                           # Display projects descriptions
+          plugin_followup: yes
+          plugin_followup_sections: repositories, user #
+          plugin_habits: yes
+          plugin_habits_from: 200       # Use 200 events to compute habits
+          plugin_habits_days: 30        # Keep only events from last 14 days
+          plugin_habits_facts: yes      # Display facts section
+          plugin_habits_charts: yes     # Display charts section
