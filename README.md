@@ -4,4 +4,9 @@ To learn about DevOps and [data intensive applications](https://www.oreilly.com/
 
 I have set up a [blog](https://b.ohncal.com/) (which might also double as a personal portfolio) to reflect on books I'm reading, interesting problems I'm solving and new technologies I'm experimenting with.
 
-![Metrics](/github-metrics.svg)
+<details>
+  <summary>My GitHub metrics</summary>
+    <p align="center">
+      <img src="/github-metrics.svg" alt="Metrics" width="400">
+    </p>
+</details>
