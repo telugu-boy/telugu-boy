@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2245" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1929" class="">
     <defs>
         <style/>
     </defs>
@@ -487,12 +487,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 3 commits)</small>
+                    <small class="h-details">(computed from last 4 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 38.0 characters per line of code written</li>
+                        <li>Has approximately 38.1 characters per line of code written</li>
                         <li>Mostly pushes code around 16:00</li>
                         <li>Mostly active on Sunday</li>
                     </ul>
@@ -608,8 +608,8 @@
                             20
                         </div>
                         <div class="entry">
-                            <span class="value">1</span>
-                            <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">2</span>
+                            <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             21
                         </div>
                         <div class="entry">
@@ -639,8 +639,8 @@
                                 Mon
                             </div>
                             <div class="entry">
-                                <span class="value">1</span>
-                                <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">2</span>
+                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Tue
                             </div>
                             <div class="entry">
@@ -670,8 +670,8 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 73.33333333333333%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">92%</span>
+                                <div class="bar" style="width: 76.7251461988304%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">96%</span>
                             </div>
                         </div>
                     </section>
@@ -1734,6 +1734,28 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">telugu-boy/discord.py-self</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9b80a16</div>
+                                        <div class="message">add typing, threads, activities to scrape
+
+It can return duplicates which need to be filtered out</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 4 commits in
                                         <span class="repo">telugu-boy/discord.py-self</span>
                                     </div>
@@ -1906,108 +1928,12 @@ the members intent was enabled.</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 619 commits in
-                                        <span class="repo">telugu-boy/discord.py-self</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#1ddf526</div>
-                                        <div class="message">Migrate invite.py</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#78ccafc</div>
-                                        <div class="message">Migrate iterators.py</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b975ccf</div>
-                                        <div class="message">Migrate http.py</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2e102c9</div>
-                                        <div class="message">Fix logging, re-add afk parameter</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d6a4f71</div>
-                                        <div class="message">Save custom activity state</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#efa0b43</div>
-                                        <div class="message">Migrate a few more methods</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bee0732</div>
-                                        <div class="message">Fix a few typos</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7ce2621</div>
-                                        <div class="message">Add owner_application_id</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#005b3e5</div>
-                                        <div class="message">Fix ClientUser typing</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#da587ba</div>
-                                        <div class="message">Migrate guild (except for subscribe())</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fe8795e</div>
-                                        <div class="message">Re-add context properties</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3429980</div>
-                                        <div class="message">Migrate</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#72f126a</div>
-                                        <div class="message">I can't python</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9c5e488</div>
-                                        <div class="message">Initial de-botting</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b37a07f</div>
-                                        <div class="message">Remove py.typed for now</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4743b95</div>
-                                        <div class="message">Update inbuild examples</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f7ef23b</div>
-                                        <div class="message">Re-add workflow (oops)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3819573</div>
-                                        <div class="message">Sync .github folder</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e366785</div>
-                                        <div class="message">Update setup.py</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7ec8a10</div>
-                                        <div class="message">Remove Japanese README</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Jun 2022, 21:13:55 (timezone America/Edmonton) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 28 Jun 2022, 22:37:04 (timezone America/Edmonton) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
