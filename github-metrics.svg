@@ -1798,7 +1798,7 @@ It can return duplicates which need to be filtered out</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Jul 2022, 22:56:42 (timezone America/Edmonton) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 14 Jul 2022, 23:38:10 (timezone America/Edmonton) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
