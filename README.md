@@ -1,4 +1,4 @@
-Good morning, most of my (proprietary) software development happens on my private Gitea instance: https://git.ieltsforge.org/.
+Good morning, most of my (proprietary) software development happens on my private Gitea instance: https://git.ieltsforge.org/ (private for time being).
 
 To learn about DevOps and [data intensive applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/), and, mostly for fun, I decided to self-host Gitea, Drone CI and Argo CD as well as a few other services. I'm going to learn Kubernetes in the future as well (none of the services I host have nearly enough volume to put effort into learning K8s). 
 
