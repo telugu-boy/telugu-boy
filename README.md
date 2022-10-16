@@ -1,4 +1,4 @@
-Good morning, most of my software development happens on my private Gitea instance: https://git.ieltsforge.org/ (shut down for server repairs).
+Good morning, most of my software development happens on my Gitea instance: https://git.ieltsforge.org/ (shut down for server repairs).
 
 To learn about enterprise development, DevOps and [data intensive applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/), I decided to self-host Gitea, CI/CD services, and a container orchestrator which are used to run SaaSs.
 
