@@ -1,8 +1,8 @@
-Good morning, most of my (proprietary) software development happens on my private Gitea instance: https://git.ieltsforge.org/ (private for time being).
+Good morning, most of my software development happens on my private Gitea instance: https://git.ieltsforge.org/ (shut down for server repairs).
 
-To learn about DevOps and [data intensive applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/), and, mostly for fun, I decided to self-host Gitea, Drone CI and Argo CD as well as a few other services. I'm going to learn Kubernetes in the future as well (none of the services I host have nearly enough volume to put effort into learning K8s). 
+To learn about enterprise development, DevOps and [data intensive applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/), I decided to self-host Gitea, CI/CD services, and a container orchestrator which are used to run SaaSs.
 
-I have set up a [blog](https://b.ohncal.com/) (which might also double as a personal portfolio) to reflect on books I'm reading, interesting problems I'm solving and new technologies I'm experimenting with.
+I have set up a [blog](https://b.ohncal.com/) to reflect on books I am reading and as a place to express my opinions.
 
 <details>
   <summary>My GitHub metrics</summary>
