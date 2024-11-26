@@ -1,4 +1,5 @@
-# UNDER CONSTRUCTION | నిర్మించబడుతోంది
+## UNDER CONSTRUCTION | నిర్మించబడుతోంది
+Select projects are to be open-sourced shortly...
 
 <details>
   <summary>My GitHub metrics</summary>
